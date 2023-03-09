@@ -1,0 +1,8 @@
+dependencies: []
+
+galaxy_info:
+  author: gehan ibrahim
+  description: NTP Role.
+  galaxy_tags:
+    - ntp
+  role_name: ntp_config
